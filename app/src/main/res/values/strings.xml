@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Star Wars Characters</string>
+    <string name="height">Height</string>
+    <string name="mass">Mass</string>
+    <string name="hair">Hair Color</string>
+    <string name="skin">Skin Color</string>
+    <string name="eye">Eye Color</string>
+    <string name="birth">Birth Year</string>
+    <string name="gender">Gender</string>
+    <string name="title">Title</string>
+    <string name="director">Director</string>
+    <string name="producer">Producer</string>
+    <string name="release">Release Date</string>
+    <string name="character_info">Character informations</string>
+    <string name="type_name">qual o seu nome?</string>
+    <string name="captured">captured</string>
+    <string name="movies">appears in</string>
+    <string name="latlong">(lat,long)</string>
+</resources>
