@@ -18,6 +18,7 @@ import com.google.zxing.integration.android.IntentResult;
 import com.rspitaliere.starwarscharacters.application.MainApplication;
 import com.rspitaliere.starwarscharacters.dao.SharedKey;
 import com.rspitaliere.starwarscharacters.dao.SharedLocalDAO;
+import com.rspitaliere.starwarscharacters.dialogs.Dialog;
 import com.rspitaliere.starwarscharacters.fragments.InfoCharactersFragment;
 import com.rspitaliere.starwarscharacters.R;
 import com.rspitaliere.starwarscharacters.adapters.characters.CharacterAdapter;
@@ -123,6 +124,7 @@ public class MainActivity extends AppCompatActivity {
                 createCallAPIMovie(url);
             }
         }
+        new Dialog(this, characterDTO.getName());
     }
 
     private void getGeolocation(){
