@@ -18,12 +18,12 @@ Star Wars Characters é um app que salva os personagens do universo Star Wars, a
 
 Star Wars Characters utiliza os seguintes Frameworks:
 
-* [Retrofit] - HTML enhanced for web apps!
-* [Picasso] - awesome web-based text editor
-* [OKHttp] - Markdown parser done right. Fast and easy to extend.
-* [Dagger] - great UI boilerplate for modern web apps
-* [ButterKnife] - evented I/O for the backend
-* [Zxing] - fast node.js network app framework [@tjholowaychuk]
+* [Retrofit]
+* [Picasso]
+* [OKHttp]
+* [Dagger]
+* [ButterKnife]
+* [Zxing]
 
  [Retrofit]: <http://square.github.io/retrofit/>
  [Picasso]: <http://square.github.io/picasso/>
